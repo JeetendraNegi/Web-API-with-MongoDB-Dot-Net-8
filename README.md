@@ -9,3 +9,8 @@ Dot net 8 web api that connect with MongoDB
 
 <img width="1092" alt="image" src="https://github.com/user-attachments/assets/ebe213c0-142a-4091-b96c-56ed13ba059e">
 
+# Authorization support in Swagger
+
+For accessing the Endpoints, you need to genearete the token first then authorize the Swagger.
+
+<img width="1127" alt="image" src="https://github.com/user-attachments/assets/c8c48a64-3610-4ad8-836d-0512bc3f16b3">
