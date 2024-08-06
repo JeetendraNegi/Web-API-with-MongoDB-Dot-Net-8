@@ -20,3 +20,7 @@ For accessing the Endpoints, you need to genearete the token first then authoriz
 Token endpoint that return the authentication token. it required userID and Password.
 
 ![image](https://github.com/user-attachments/assets/90516771-17c5-4367-892e-4e5631fd4f72)
+
+# Model Schemas
+
+![image](https://github.com/user-attachments/assets/a20c80b0-1cff-49c5-bcf6-2c9e2684b6aa)
